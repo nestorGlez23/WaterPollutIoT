@@ -3,18 +3,18 @@ Red basada en nodos Arduino y maestro Raspberry Pi para la medición distribuida
 
 
 # Instalación en el maestro
-1.Grabar el archivo .iso en una tarjeta microSD e introducirla en la Raspberry Pi
-2.Conectar la Raspberry Pi a la red con acceso a internet
-3. Acceder por SSH a la dirección: openhab
+1.Grabar el archivo .iso en una tarjeta microSD e introducirla en la Raspberry Pi \
+2.Conectar la Raspberry Pi a la red con acceso a internet \
+3. Acceder por SSH a la dirección: openhab \
 
 Una vez en la terminal y sabiendo que el usuario es openhabian y la contraseña openhabian
 
-1.Introducir configuración de red
-2.Editar el fichero de configuración de OpenHABCloud en ~/openhab-cloud/config.json con el correo y la contraseña de la cuenta pertinente de OpenHAB Cloud
-3.Vincular a través de la web de myopenhab.org el dispositivo con el UUID y Secret
-
+1.Introducir configuración de red \
+2.Editar el fichero de configuración de OpenHABCloud en ~/openhab-cloud/config.json con el correo y la contraseña de la cuenta pertinente de OpenHAB Cloud \
+3.Vincular a través de la web de myopenhab.org el dispositivo con el UUID y Secret \
+ 
 
 # Instalación de los nodos
-1.Cablear los nodos y tener el código que se encargue de de realizar la medida particular que necesiten los sensores conectados
-2.Abrir nodoBasico.ino y añadir el código necesario para los sensores conectados
-3.Configurar los datos de Red que se hayan escogido
+1.Cablear los nodos y tener el código que se encargue de de realizar la medida particular que necesiten los sensores conectados \
+2.Abrir nodoBasico.ino y añadir el código necesario para los sensores conectados \
+3.Configurar los datos de Red que se hayan escogido \
