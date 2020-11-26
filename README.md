@@ -3,7 +3,7 @@ Red basada en nodos Arduino y maestro Raspberry Pi para la medición distribuida
 
 
 # Instalación en el maestro
-1.Grabar el archivo .iso en una tarjeta microSD e introducirla en la Raspberry Pi \
+1.Grabar el archivo .iso situado en el .zip (https://drive.google.com/file/d/19Pe3scRtVANKhS46gdNJ95ezSyKRv977/view?usp=sharing) en una tarjeta microSD e introducirla en la Raspberry Pi \
 2.Conectar la Raspberry Pi a la red con acceso a internet \
 3. Acceder por SSH a la dirección: openhab \
 
